@@ -1,0 +1,9 @@
+Install these packages
+Anaconda
+prior running the main script run the below command.
+"conda install -c conda-forge spacy-model-en_core_web_lg"
+gensim
+spacy
+heapq
+nltk
+beautifulsoup4
